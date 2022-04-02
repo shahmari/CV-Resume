@@ -1,0 +1,32 @@
+% Source: http://tex.stackexchange.com/a/5374/23931
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\newcommand{\Hrule}{\rule{\linewidth}{0.3mm}}
+
+\makeatletter% since there's an at-sign (@) in the command name
+\renewcommand{\@maketitle}{%
+  \parindent=0pt% don't indent paragraphs in the title block
+  \centering
+  {\Large \bfseries\textsc{\@title}}
+  \HRule\par%
+  \textit{\@author \hfill \@date}
+  \par
+}
+\makeatother% resets the meaning of the at-sign (@)
+
+\title{\textbf{Statement of Purpose}}
+\author{\textbf{Yaghoub Shahmari}}
+\date{\textbf{Intership Applicant}}
+
+
+\begin{document}
+  \maketitle% prints the title block
+
+  I'm interested in computational science, in which one can use the spectacular capability of computers for solving practical problems. But in the first place, my intrigue for the world around me was the cause of my fondness for physics. My interest in physics started from physics classes of my middle school. I took it seriously and started doing extracurricular activities and studied more advanced topics. I attended the first stage of the physics and astronomy national Olympiad and became one of the top ten percent. I decided to participate in the computer Olympiad just for fun and similarly, became one of the top ten percent and found my interest in computer science, too. After deciding to study physics at university, I found my interest in the Interdisciplinary field of complex systems, where Physics and Computer science become related to each other. This is why I decided to become a minor student in computer science.
+  
+  My interest in the internship program's fields of research, together with its higher quality and the fact that these issues are not completely covered at my university, is why I decided to apply for the program, and I intend to share what I've acquired during this period with my friends. Also, the fields offered in this program are very similar to the subjects related to the statistical physics group in my department and complex systems in other departments, which I may work within the near future. Therefore, participation with you will be very important for my career and educational future.
+\end{document}
