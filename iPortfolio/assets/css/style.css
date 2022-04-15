@@ -290,6 +290,41 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Download
+--------------------------------------------------------------*/
+.download .content h3 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #8a9aaa;
+}
+
+.download .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.download .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.download .content ul strong {
+  margin-right: 10px;
+}
+
+.download .content ul i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: #2a679f;
+  line-height: 0;
+}
+
+.download .content p:last-child {
+  margin-bottom: 0;
+}
+
+/*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
 .about .content h3 {

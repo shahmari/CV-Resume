@@ -1,6 +1,6 @@
-PWD c:\Users\shahm\Desktop\Our Life in University\My CV\CV
+PWD c:\Users\shahm\Documents\GitHub\CV-Resume\CV
 INPUT C:\Users\shahm\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\shahm\Desktop\Our Life in University\My CV\CV\cv_7.tex
+INPUT c:\Users\shahm\Documents\GitHub\CV-Resume\CV\cv_7.tex
 OUTPUT cv_7.log
 INPUT .\moderncv.cls
 INPUT .\moderncv.cls
