@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.1)  15 APR 2022 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.9)  25 JAN 2023 19:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,34 +470,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 {C:/Users/shahm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 151.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 158.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <8> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 156.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 163.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/8'.
 (microtype)             Ignoring protrusion settings for this character.
 [2] [3] (cv_7.aux)
 Package rerunfilecheck Info: File `cv_7.out' has not changed.
-(rerunfilecheck)             Checksum: 1A3CF8357E53B18FE88DEC667F8A423E;1183.
+(rerunfilecheck)             Checksum: 52F75925E98ECE327657344FEBD05A68;1449.
  ) 
 Here is how much of TeX's memory you used:
- 12897 strings out of 478582
- 212294 string characters out of 2854160
- 646583 words of memory out of 3000000
- 30781 multiletter control sequences out of 15000+600000
- 520330 words of font info for 93 fonts, out of 8000000 for 9000
+ 12907 strings out of 478582
+ 212416 string characters out of 2854160
+ 644584 words of memory out of 3000000
+ 30783 multiletter control sequences out of 15000+600000
+ 520633 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,13n,83p,1046b,340s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,13n,83p,1046b,341s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsso17.pfb>
-Output written on cv_7.pdf (3 pages, 178900 bytes).
+Output written on cv_7.pdf (3 pages, 180990 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 28753 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 28769 words of extra memory for PDF output out of 29859 (max. 10000000)
 
