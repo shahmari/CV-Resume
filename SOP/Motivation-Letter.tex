@@ -1,0 +1,139 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Lined Cover Letter
+% LaTeX Template
+% Version 3.0 (February 14, 2023)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	12pt, % Default font size
+]{letter}
+
+\usepackage{graphicx} % Required for including images
+
+%----------------------------------------------------------------------------------------
+%	MARGINS
+%----------------------------------------------------------------------------------------
+
+\usepackage[
+	a4paper, % Paper size, use letterpaper for US letter paper
+	top=2cm, % Top margin
+	bottom=2.5cm, % Bottom margin
+	left=3cm, % Left margin
+	right=3cm, % Right margin
+	headsep=0.8cm, % Space from the top margin to the baseline of the header
+	footskip=1.2cm, % Space from the bottom margin to the baseline of the footer
+	%showframe % Uncomment to show frames around the margins for debugging purposes
+]{geometry}
+
+\setlength{\parindent}{0pt} % Paragraph indentation
+\setlength{\parskip}{1em} % Vertical space between paragraphs
+
+%----------------------------------------------------------------------------------------
+%	FONTS
+%----------------------------------------------------------------------------------------
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\usepackage{XCharter} % Use the XCharter fonts
+
+%----------------------------------------------------------------------------------------
+%	HEADERS AND FOOTERS
+%----------------------------------------------------------------------------------------
+
+\usepackage{fancyhdr} % Required for customizing headers and footers
+
+\fancypagestyle{firstpage}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{0pt} % No header rule
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\fancypagestyle{subsequentpages}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{1pt} % Header rule thickness
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\AtBeginDocument{\thispagestyle{firstpage}} % Use the first page headers/footers style on the first page
+\pagestyle{subsequentpages} % Use the subsequent pages headers/footers style on subsequent pages
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	FIRST PAGE HEADER
+%----------------------------------------------------------------------------------------
+
+\vspace*{-1.25cm} % Pull logo into the top margin
+
+\vspace{-0.5cm} % Pull the rule closer to the logo
+
+\rule{\linewidth}{1pt} % Horizontal rule
+
+\medskip % Vertical whitespace
+
+%----------------------------------------------------------------------------------------
+%	YOUR NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begingroup
+	\raggedleft % Right align text
+	\small % Font size
+	Mr. Yaghoub Shahmari \\ % Your name
+	+98 9226434531 \\ % Your phone number
+	shahmari.acer@gmail.com\\ % Your email address
+	\bigskip % Vertical whitespace
+	{\normalsize\textit{\today}}\\ % Date
+\endgroup
+
+%----------------------------------------------------------------------------------------
+%	ADDRESSEE AND GREETING
+%----------------------------------------------------------------------------------------
+
+\textbf{Motivation Letter for Aalto Internship Program}
+
+\medskip % Vertical whitespace
+
+Dear Admissions Committee,
+
+\smallskip % Vertical whitespace
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+I am writing to express my strong interest in the Aalto University Summer Internship Program in computational sciences and data science. Currently, I am studying Physics at Sharif University of Technology, the top university in Iran, and I am very excited about the opportunity to expand my knowledge and experience in scientific algorithms through this program.
+
+Throughout my experiences as an undergraduate student, I have developed a passion for programming, having gained handy skills in Python, Julia, and C/C++. I have worked on several projects involving Epidemiology, Evolution, network dynamics, and time series analysis, which have provided me with valuable skills in data analysis, modeling, and scientific computation.
+
+Most recently, I completed a research internship at the Okinawa Institute of Science and Technology in Japan, where I applied numerical algorithms to study how seasonality influences pathogen latency in infectious diseases. This experience strengthened my skills in simulation, distributed computing, data analysis, and visualization using programming languages like Julia. Moreover, I found the experience of doing research in an international environment very helpful and it expanded my social-academic skills such as working in a group, doing research in a workspace, and being a part of an active community of researchers.
+
+The Aalto Summer Internship Program closely matches my interests in scientific computations. I am eager to expand my skills in programming, analysis, and theory by learning from Aalto's renowned experts.I also look forward to collaborating with talented peers, exchanging ideas, and contributing meaningfully to team projects. I am confident that I will quickly become an engaged and active participant in this enriching program. I greatly appreciate your consideration of my application.
+
+\smallskip % Vertical whitespace
+
+Sincerely yours,
+
+\bigskip\bigskip\bigskip % Vertical whitespace
+
+Yaghoub Shahmari
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
