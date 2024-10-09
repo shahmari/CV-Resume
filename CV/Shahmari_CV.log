@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  8 OCT 2024 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  9 OCT 2024 14:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,15 +474,15 @@ Package rerunfilecheck Info: File `Shahmari_CV.out' has not changed.
 (rerunfilecheck)             Checksum: A49868633761E6BC2D6DCCFA44933206;1272.
  ) 
 Here is how much of TeX's memory you used:
- 13067 strings out of 474272
- 211015 string characters out of 5751547
+ 13063 strings out of 474272
+ 210963 string characters out of 5751547
  1948533 words of memory out of 5000000
  34952 multiletter control sequences out of 15000+600000
- 608419 words of font info for 111 fonts, out of 8000000 for 9000
+ 608217 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,13n,93p,1062b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Shahmari_CV.pdf (3 pages, 200984 bytes).
+Output written on Shahmari_CV.pdf (3 pages, 200986 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
